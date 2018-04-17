@@ -10,6 +10,7 @@
  *
  */
 require_once('constants.php');
+use Payment\BaoKim;
 class BaoKimPayment
 {
 	/**

@@ -1,0 +1,21 @@
+{
+    "name": "thanhlam/baokim",
+    "description": "Package for Bao Kim Payment Online Solution",
+    "type": "php",
+    "license": "0",
+    "authors": [
+        {
+            "name": "thanhlam",
+            "email": "phankieuthanhlam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "Payment\\BaoKim\\": "src/"
+        }
+    }
+}

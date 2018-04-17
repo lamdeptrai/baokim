@@ -6,6 +6,7 @@
  * Time: 09:18
  */
 include('call_restful.php');
+use Payment\BaoKim;
 class BaoKimPaymentPro{
 
 	/**
