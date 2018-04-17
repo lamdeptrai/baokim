@@ -1,8 +1,7 @@
 {
     "name": "thanhlam/baokim",
-    "description": "Package for Bao Kim Payment Online Solution",
+    "description": "Package for Bao Kim Payment Online Solution for PHP",
     "type": "php",
-    "license": "aaa",
     "authors": [
         {
             "name": "thanhlam",
