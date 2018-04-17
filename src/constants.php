@@ -1,4 +1,7 @@
 <?php
+namespace Payment;
+
+
 //CẤU HÌNH TÀI KHOẢN (Configure account)
 define('EMAIL_BUSINESS','dev.baokim@bk.vn');//Email Bảo kim
 define('MERCHANT_ID','1234');                // Mã website tích hợp
