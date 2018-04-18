@@ -15,8 +15,8 @@
         "classmap": [
             "src/migrations"
         ],
-        "psr-0": {
-            "Payment\\": "src/"
+        "psr-4": {
+            "Thanhlam\\Baokim\\": "src/"
         }
     },
     "minimum-stability": "dev"

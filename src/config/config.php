@@ -47,7 +47,7 @@ return array(
         2YQuaghlNG1SATVd5eUadq2pA8DuSzqWFa0Ac1IAyliBO2uLPL7LzuEKmmuQk0vI
         TU2Q8idAb77K7mvVguA3LDhN
         -----END PRIVATE KEY----- ',
-        'BAOKIM_URL_SANDBOX' => 'http://kiemthu.baokim.vn',
+        'BAOKIM_URL_SANDBOX' => 'http://sandbox.baokim.vn',
         'BAOKIM_URL'         => 'https://www.baokim.vn',
         'BAOKIM_API_PAYMENT' => '/payment/order/version11',
     ),
