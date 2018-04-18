@@ -1,6 +1,6 @@
-<?php
+﻿<?php
 return array(
-
+ 
     'SANDBOX'   => false,
     'NganLuong' => array(
         'MERCHANT_ID'    => 'merchant',
@@ -59,7 +59,7 @@ return array(
         ),
         'BaoKim'    => array(
             'BAOKIM_URL'        => 'https://www.baokim.vn/the-cao/restFul/send',
-            'CORE_API_HTTP_USR' => 'merchant',
+            'CORE_API_HTTP_USR' => 'merchantaa',
             'CORE_API_HTTP_PWD' => 'merchant',
             'MERCHANT_ID'       => 'merchant',
             'API_USERNAME'      => 'merchant',
