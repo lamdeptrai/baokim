@@ -13,7 +13,7 @@
     },
     "autoload": {
         "classmap": [
-            "src/", "Payment/BaoKim", "BaoKimPayment.php"
+            "src/Payment/BaoKim/BaoKimPayment.php"
         ],
         "psr-4": {
             "ThanhLam\\BaoKim\\": "src/"
