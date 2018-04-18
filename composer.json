@@ -13,10 +13,10 @@
     },
     "autoload": {
         "classmap": [
-            "src/migrations"
+            "src/", "Payment/BaoKim", "BaoKimPayment.php"
         ],
         "psr-4": {
-            "Thanhlam\\Baokim\\": "src/"
+            "ThanhLam\\BaoKim\\": "src/"
         }
     },
     "minimum-stability": "dev"
